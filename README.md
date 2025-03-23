@@ -18,3 +18,7 @@ my i3 window manager config files along with i3blocks
 .config/i3blocks/i3blocks.conf
 
 
+### references
+
+- i3 blocks script are from 
+[https://github.com/vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib)
