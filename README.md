@@ -14,7 +14,9 @@ my i3 window manager config files along with i3blocks
 ### File (i3blocks)
 
 .config/i3blocks/scripts/
+
 .config/i3blocks/config
+
 .config/i3blocks/i3blocks.conf
 
 
